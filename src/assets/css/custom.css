@@ -1,0 +1,8 @@
+.main-intro{
+    /* background-image: url('./../images/notebook.jpg'); */
+    /* position: absolute; */
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    z-index: unset;
+}
